@@ -10,13 +10,13 @@ I'm a software engineer at [SportsVisio, Inc.](https://sportsvisio.com) in Madri
 
 ### Open Source Projects
 
-[![ncnn.dart](https://github-readme-stats.vercel.app/api/pin/?username=tomassasovsky&repo=ncnn.dart)](https://github.com/tomassasovsky/ncnn.dart)
-[![radio-horizon.dart](https://github-readme-stats.vercel.app/api/pin/?username=tomassasovsky&repo=radio-horizon.dart)](https://github.com/tomassasovsky/radio-horizon.dart)
-[![automatic_version_upgrader.dart](https://github-readme-stats.vercel.app/api/pin/?username=tomassasovsky&repo=automatic_version_upgrader.dart)](https://github.com/tomassasovsky/automatic_version_upgrader.dart)
-[![WeAppe.ar](https://github-readme-stats.vercel.app/api/pin/?username=tomassasovsky&repo=WeAppe.ar)](https://github.com/tomassasovsky/WeAppe.ar)
-[![pytorch.dart](https://github-readme-stats.vercel.app/api/pin/?username=tomassasovsky&repo=pytorch.dart)](https://github.com/tomassasovsky/pytorch.dart)
+[![ncnn.dart](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=tomassasovsky&repo=ncnn.dart)](https://github.com/tomassasovsky/ncnn.dart)
+[![radio-horizon.dart](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=tomassasovsky&repo=radio-horizon.dart)](https://github.com/tomassasovsky/radio-horizon.dart)
+[![automatic_version_upgrader.dart](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=tomassasovsky&repo=automatic_version_upgrader.dart)](https://github.com/tomassasovsky/automatic_version_upgrader.dart)
+[![WeAppe.ar](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=tomassasovsky&repo=WeAppe.ar)](https://github.com/tomassasovsky/WeAppe.ar)
+[![pytorch.dart](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=tomassasovsky&repo=pytorch.dart)](https://github.com/tomassasovsky/pytorch.dart)
 
 
 ### Github Stats
 
-[![Tomás' Github Stats](https://github-readme-stats.vercel.app/api?username=tomassasovsky&count_private=true&theme=default&show_icons=true)](https://github.com/tomassasovsky)
+[![Tomás' Github Stats](https://github-readme-stats.vercel.app/api?theme=dark&username=tomassasovsky&count_private=true&show_icons=true)](https://github.com/tomassasovsky)
