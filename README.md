@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I'm a software engineer at [SportsVisio, Inc.](https://sportsvisio.com) in Madrid, Spain
+I'm a software engineer at [El Dorado, Inc.](https://eldorado.io) in Buenos Aires, Argentina
 
 - 🧱 I’m currently working on [radio-horizon.dart](https://github.com/tomassasovsky/radio-horizon.dart)
 - 🔭 I maintain the [ncnn library](https://https://github.com/tomassasovsky/ncnn.dart)
