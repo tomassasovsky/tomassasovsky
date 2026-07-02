@@ -1,4 +1,4 @@
-### Hi, I'm Tomás 👋
+á👋🇦🇷—🧱🛣️·💬⚡⛵📫·### Hi, I'm Tomás 👋
 
 Senior Flutter Engineer from Buenos Aires 🇦🇷 — 5+ years shipping mobile products for US startups in fintech, sports tech, and health.
 
